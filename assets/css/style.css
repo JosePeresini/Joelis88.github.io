@@ -20,21 +20,9 @@
 	background-position: left;
 }
 
-.container {
-	display: flex;
-	column-gap: 20px;
-	flex-direction: row;
-	align-content: space-between;
-	align-items: center;
-}
-
-.perfil {
-	gap: 30px;
-}
-
 .Perfil img {
-	width: 25rem;
-	border-radius: 45%;
+	max-width: 25em;
+	border-radius: 50em;
 }
 
 /* Mis Estudios */
